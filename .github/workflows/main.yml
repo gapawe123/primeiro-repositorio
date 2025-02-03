@@ -11,6 +11,6 @@ jobs:
       - name: "Minha primeira acao"
         run: echo "Hello World !!!"
       - name: "Segunda acao"
-        run:
+        run:  |
           echo "Voce criou o seu primeiro workflow !!!"
           echo "Parabens !!!"
